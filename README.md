@@ -2,10 +2,10 @@
 learn to build a plugin for project.
 
 Open Live Link:
-https://zealous-memory.localsite.io
+https://fair-sun.localsite.io
 
 If prompted, enter the information below.
 
-Username: authority
+Username: pancake
 
-Password: perfect
+Password: honorable
